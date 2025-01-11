@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romikgosai&label=Profile%20views&color=0e75b6&style=flat" alt="romikgosai" /> </p>
 
-- 👨‍💻 All of my projects are available at [romik.com.np](romik.com.np)
+- 👨‍💻 All of my projects are available at [romik.com.np](http://www.romik.com.np)
 
 - 📫 How to reach me **romikgosai2057@gmail.com**
 
